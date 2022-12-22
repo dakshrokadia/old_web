@@ -88,13 +88,14 @@ ul{
     background-color: #ffffff;
 }
 
-@media(max-width: 767px){
+
+@media(max-width: 750px){
     .footer-col{
     width: 50%;
     margin-bottom: 30px;
 }
 }
-@media(max-width: 574px){
+@media(max-width: 400px){
     .footer-col{
     width: 100%;
 }
