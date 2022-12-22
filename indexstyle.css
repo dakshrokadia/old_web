@@ -89,7 +89,7 @@ ul{
 }
 
 
-@media(max-width: 1200px){
+@media(max-width: 750px){
     .footer-col{
     width: 50%;
     margin-bottom: 30px;
