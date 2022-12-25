@@ -11,6 +11,12 @@ box-sizing: border-box;
 list-style: none;
 text-decoration: none;
 }
+
+.pagetitle {
+    text-align: center;
+    background-color: #1ab26b;
+}
+
 /*header*/
 header{
     width: 100vw;
@@ -21,7 +27,7 @@ header{
 }
 
 header .inner{
-    width: 80%; /* This is the inner width of the content inside of your header (80%, etc) */
+    width: 88%; /* This is the inner width of the content inside of your header (80%, etc) */
     height: 100%;
     display: block;
     margin: 0 auto;
