@@ -27,7 +27,7 @@ text-decoration: none;
 }
 .titleboxright {
     width:50%;
-    height:50%;
+    height: 144px;
     float:left;
     background-color: red;
 }
