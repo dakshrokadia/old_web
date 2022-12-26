@@ -17,6 +17,21 @@ text-decoration: none;
     background-color: #1ab26b;
 }
 
+.titleboxleft {
+    background-color: blue;
+    text-align: center;
+    width:50%;
+    height:50%;
+    float:left;
+
+}
+.titleboxright {
+    width:50%;
+    height:50%;
+    float:left;
+    background-color: red;
+}
+
 /*header*/
 header{
     width: 100vw;
