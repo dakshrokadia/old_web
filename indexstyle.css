@@ -33,6 +33,11 @@ text-decoration: none;
     background-color: red;
 }
 
+.projectbanner {
+    background-color: aqua;
+    text-align:center;
+}
+
 /*header*/
 header{
     width: 100vw;
