@@ -38,6 +38,55 @@ text-decoration: none;
     text-align:center;
 }
 
+.projectinfo {
+    background-color: aquamarine;
+}
+
+.blockdumwebsiteleftimg {
+    background-color: blue;
+    text-align: center;
+    width:20%;
+    height:100%;
+    float:left;
+
+}
+.blockdumwebsiterightinfo {
+    width:80%;
+    height: 50%;
+    float:left;
+    background-color: red;
+}
+
+.stickyeditorleftimg {
+    background-color: blue;
+    text-align: center;
+    width:20%;
+    height:100%;
+    float:left;
+
+}
+.stickyeditorrightinfo {
+    width:80%;
+    height: 50%;
+    float:left;
+    background-color: red;
+}
+
+.boxnwhiskerleftimg {
+    background-color: blue;
+    text-align: center;
+    width:20%;
+    height:100%;
+    float:left;
+
+}
+.boxnwhiskerrightinfo {
+    width:80%;
+    height: 50%;
+    float:left;
+    background-color: red;
+}
+
 /*header*/
 header{
     width: 100vw;
