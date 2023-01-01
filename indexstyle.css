@@ -87,6 +87,9 @@ text-decoration: none;
     background-color: red;
 }
 
+.endproject {
+    background-color: red;
+}
 /*header*/
 header{
     width: 100vw;
